@@ -6,3 +6,4 @@ Dependency | Sources | Version | Mismatched versions
 [cb-kubecd/bdd-gh-1576889047](https://github.com/cb-kubecd/bdd-gh-1576889047.git) |  | []() | 
 [cb-kubecd/bdd-nh-1576889047](https://github.com/cb-kubecd/bdd-nh-1576889047.git) |  | []() | 
 [cb-kubecd/bdd-sbhg-1576889047](https://github.com/cb-kubecd/bdd-sbhg-1576889047.git) |  | []() | 
+[cb-kubecd/bdd-nh-import-1576891248](https://github.com/cb-kubecd/bdd-nh-import-1576891248.git) |  | []() | 
